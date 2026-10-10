@@ -1,0 +1,6 @@
+#ifndef BENCODE_PARSER
+#define BENCODE_PARSER
+
+
+
+#endif //BENCODE_PARSER
